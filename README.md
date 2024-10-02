@@ -1,0 +1,1 @@
+# plugins-delete-multiple-themes
